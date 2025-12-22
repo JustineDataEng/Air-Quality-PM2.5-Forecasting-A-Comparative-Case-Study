@@ -1,7 +1,7 @@
 # Air Quality (PM2.5) Forecasting: A Comparative Case Study
 
 ## **Project Overview**
-Predicting air quality is a complex task due to the high volatility of particulate matter (PM2.5). This project presents a technical comparison of three different architectural approaches to time-series forecasting. I developed three distinct pipelines—ranging from traditional machine learning to advanced statistical modeling—to determine which approach best captures the temporal dynamics of air pollution in Dar es Salaam.
+Predicting air quality is a complex task due to the high volatility of particulate matter (PM2.5). This project presents a technical comparison of three different architectural approaches to time-series forecasting. I developed three distinct pipelines, ranging from traditional machine learning to advanced statistical modeling—to determine which approach best captures the temporal dynamics of air pollution in Dar es Salaam.
 
 ---
 

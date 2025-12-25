@@ -1,7 +1,7 @@
 # Air Quality (PM2.5) Forecasting: A Comparative Case Study
 
 ## **Project Overview**
-Predicting air quality is a high-stakes challenge due to the volatility of particulate matter. This project evaluates three architectural approaches to time-series forecasting using sensor data from Dar es Salaam, Tanzania. I developed three distinct pipelines, ranging from regularized machine learning to advanced statistical models—to identify which approach best captures atmospheric pollution dynamics.
+Predicting air quality is a high-stakes challenge due to the volatility of particulate matter. This project evaluates three architectural approaches to time-series forecasting using sensor data from Dar es Salaam, Tanzania. I developed three distinct pipelines, ranging from regularized machine learning to advanced statistical models to identify which approach best captures atmospheric pollution dynamics.
 
 ---
 
